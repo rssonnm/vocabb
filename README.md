@@ -2,7 +2,9 @@
 
 **Vocabb** là một ứng dụng học từ vựng tiếng Anh (đặc biệt hỗ trợ IELTS) được xây dựng với triết lý tối giản, hiệu quả và hiện đại. Ứng dụng tích hợp thuật toán ôn tập ngắt quãng (SRS) và các biểu đồ phân tích giúp bạn làm chủ vốn từ vựng một cách khoa học.
 
-![App Icon](icon.png)
+<p align="center">
+  <img src="icon.png" width="128" />
+</p>
 
 ## ✨ Tính năng nổi bật
 
